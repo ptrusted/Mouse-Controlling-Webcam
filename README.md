@@ -3,4 +3,4 @@ Here I try to give you an idea of one usage of webcam that can possibly encourag
 
 Accessing webcam was done using AForge.NET.
 
-I'll make a tutorial image for you to use it soon.
+You should read the tutorial before using application.
